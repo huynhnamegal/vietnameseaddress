@@ -2,7 +2,7 @@
     "name": "egalHTN/vietnameseaddress-plugin",
     "type": "october-plugin",
     "description": "List of Vietnam address included provinces, districts and wards.",
-    "homepage": "https://github.com/huynhnamegal/vietnamese-address",
+    "homepage": "https://github.com/huynhnamegal/vietnameseaddress",
     "keywords": ["Vietnam address", "Vietnammese-address"],
     "authors": [
         {
