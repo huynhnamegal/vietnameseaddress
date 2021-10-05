@@ -1,2 +1,4 @@
 1.0.0: 
   - First version of Address
+1.0.1:
+  - Add getContent function to get data of province/district/ward
