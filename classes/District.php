@@ -17,7 +17,7 @@ class District
         if ($province_code == '') {
             return null;
         }
-        return json_decode(file_get_contents(plugins_path('masent/address/assets/districts/' . $province_code . '.json')),true);
+        return json_decode(file_get_contents(plugins_path('egalhtn/vietnameseaddress/assets/districts/' . $province_code . '.json')),true);
     }
 
     /**

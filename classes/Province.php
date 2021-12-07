@@ -12,7 +12,7 @@ class Province
      */
     private static function getProvincesFromFile() : array
     {
-        return json_decode(file_get_contents(plugins_path('masent/address/assets/provinces.json')),true);
+        return json_decode(file_get_contents(plugins_path('egalhtn/vietnameseaddress/assets/provinces.json')),true);
     }
 
     /**

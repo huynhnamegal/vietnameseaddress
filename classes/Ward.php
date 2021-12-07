@@ -11,7 +11,7 @@ class Ward
         if ($district_code == '') {
             return null;
         }
-        return json_decode(file_get_contents(plugins_path('masent/address/assets/wards/' . $district_code . '.json')),true);
+        return json_decode(file_get_contents(plugins_path('egalhtn/vietnameseaddress/assets/wards/' . $district_code . '.json')),true);
     }
 
     /**
